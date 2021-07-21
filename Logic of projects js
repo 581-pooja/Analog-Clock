@@ -1,0 +1,40 @@
+logic:
+hour hand:
+
+for hour
+12 hr = 360 deg
+1 hr = 360/12 = 30 deg
+
+for mintue
+60 min = 360 deg
+1 min = 360/60 = 6 deg
+
+and seconds will be negiliable
+
+for hour hand: 30*h + m/2
+3 hrs = 30*3 + 0 = 90 deg
+6 hrs = 30*6 + 0 = 180 deg
+
+6 hrs + 15 min = 30*6 + 15/2 = 90 + 7.5 = 97.5 deg it will rotate
+since effect of minutes is persent of hou hand
+
+
+
+Minute hand:
+
+60 min = 360 deg
+1 min = 6 deg
+Minute hand:  m minutes =6*m deg
+eg: 30 min = 6*30 = 180 deg
+eg: 60 min = 6*60 
+
+seconds will be negiliable
+
+
+Seconds hand:
+
+60 seconds = 360 deg
+1 second = 360/60 = 6 deg
+Seconds hand: s second = 6*s deg
+eg : 60 sec = 6*60= 360
+eg: 30 sec = 6*30 = 180 deg till rotate

@@ -1,0 +1,2 @@
+images/
+Logic of projects js/
